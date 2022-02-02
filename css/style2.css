@@ -1,3 +1,4 @@
+
 *,
 *::before,
 *::after {
@@ -36,6 +37,64 @@ html {
     height: 100%;
     line-height: 1;
 }
-h1{
+body{
     font-family: lato;
+}
+h1{
+    font-family: lato 400;
+    font-size: 46px;
+    line-height: 130%;
+    font-weight: 900;
+    color: #1E212C;
+}
+.content span{
+    font-family: Lato;
+    color: #1E212C;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 150%;
+}
+.content p{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+color: #424551;
+}
+.content .content-text{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    text-align: center;
+     
+}
+.content .content-text-2{
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+color: #424551;
+}
+.content .list{
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+color: #424551;
+}
+.text-4 p{
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+color: #424551;
+
 }
