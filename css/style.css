@@ -50,9 +50,10 @@ color: blue;
 font-size: 30px;
 }
 .header{
-	font-family: Regular 400 italic;
+	font-family: Regular;
 	color: cadetblue;
 	font-size: 22px;
+	font-weight: 900;
 }
 .header span{
 	color: darkorange;
@@ -62,7 +63,6 @@ font-size: 30px;
 	color: darkorchid;
 	font-size: 40px;
 	font-weight: 5;
-	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .header-text2{
 	color: deeppink;
@@ -79,7 +79,7 @@ font-size: 30px;
 	color: chartreuse;	
 }
 .text3{
-	font-family: lato;
+	font-family: "lato";
 	font-size: 60px;
 	color: cornflowerblue;
 	text-align: justify;
@@ -87,7 +87,8 @@ font-size: 30px;
 .text-4{
 	font-size: 50px;
 	color: crimson;
-	font-family: Rubik italic;
+	font-family: Rubik;
+	font-weight: bold;
 }
 .text-4 span{
 	color: cyan;
@@ -106,8 +107,8 @@ color: darkorchid;
 .text-5 .text-6{
 	color: gold;
 	font-size: 33px;
-	font-weight: 7;
 	font-family: Shelley-AndanteScript;
+	font-weight: bold;
 }
 .text-7{
 color: green;
