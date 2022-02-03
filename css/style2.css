@@ -40,7 +40,7 @@ html {
 body{
     font-family: lato;
 }
-h1{
+.header{
     font-family: "Lato";
     font-size: 46px;
     line-height: 130%;
