@@ -57,9 +57,7 @@ body{
     margin-top: 60px;
 }
 .content span{
-    font-family: "Lato";
     color: #1E212C;
-font-style: normal;
 font-weight: 700;
 font-size: 20px;
 line-height: 150%;
@@ -70,16 +68,12 @@ margin-bottom: 24px;
     margin-bottom: 48px;
 }
 .content p{
-    font-family: "Lato";
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 160%;
 color: #424551;
 }
 .content .content-text{
-    font-family: Lato;
-    font-style: normal;
     font-weight: 900;
     font-size: 20px;
     line-height: 150%;
@@ -90,8 +84,6 @@ color: #424551;
      
 }
 .content .content-text-2{
-font-family: Lato;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 160%;
@@ -99,8 +91,6 @@ color: #424551;
 margin-bottom: 24px;
 }
 .content .list{
-font-family: Lato;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 160%;
@@ -110,8 +100,6 @@ margin-bottom: 24px;
 
 }
 .text-4 p{
-font-family: Lato;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 160%;
