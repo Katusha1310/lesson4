@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Pacifico:regular);
 *,
 *::before,
 *::after {
@@ -52,8 +52,7 @@ h1{
     font-family: Lobster;
 }
 .main span{
-    font-family: Amatic SC;
-    font-weight: 400;
+    font-family: Pacifico;
     font-size: 20px;
 }
 .main a{
@@ -71,8 +70,7 @@ h1{
     height: 500px;
 }
 .text{
-    font-family: Mulish;
-    font-weight: 400;
+    font-family: Pacifico;
     font-size: 25px;
 }
 .text-2{
